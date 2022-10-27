@@ -1,7 +1,5 @@
 import module from 'module';
-const require = module.createRequire(import.meta.url);
-const pModule = 'C:/Users/abdaq/code/NodeModule/puppeteer@19.2.0/node_modules/puppeteer';
-const puppeteer = require(pModule);
+import { Puppeteer } from 'puppeteer';
 
 (async () => {
 

@@ -1,0 +1,1550 @@
+[
+	{
+		"text": "コンテンツにスキップ",
+		"url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%8C%AB#bodyContent"
+	},
+	{
+		"text": "\n\t\n\t\n\t\t\n\t\t\n\t\n",
+		"url": "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8"
+	},
+	{
+		"text": "\n\t\t検索\n\t",
+		"url": "https://ja.wikipedia.org/wiki/%E7%89%B9%E5%88%A5:%E6%A4%9C%E7%B4%A2"
+	},
+	{
+		"text": "もっと詳しく",
+		"url": "https://ja.wikipedia.org/wiki/Wikipedia:%E3%82%A6%E3%82%A3%E3%82%AD%E3%83%9A%E3%83%87%E3%82%A3%E3%82%A2%E3%81%B8%E3%82%88%E3%81%86%E3%81%93%E3%81%9D"
+	},
+	{
+		"text": "トーク",
+		"url": "https://ja.wikipedia.org/wiki/%E7%89%B9%E5%88%A5:%E3%83%88%E3%83%BC%E3%82%AF%E3%83%9A%E3%83%BC%E3%82%B8"
+	},
+	{
+		"text": "投稿記録",
+		"url": "https://ja.wikipedia.org/wiki/%E7%89%B9%E5%88%A5:%E8%87%AA%E5%88%86%E3%81%AE%E6%8A%95%E7%A8%BF%E8%A8%98%E9%8C%B2"
+	},
+	{
+		"text": "メインページ",
+		"url": "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8"
+	},
+	{
+		"text": "コミュニティ・ポータル",
+		"url": "https://ja.wikipedia.org/wiki/Wikipedia:%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3%E3%83%BB%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%AB"
+	},
+	{
+		"text": "最近の出来事",
+		"url": "https://ja.wikipedia.org/wiki/Portal:%E6%9C%80%E8%BF%91%E3%81%AE%E5%87%BA%E6%9D%A5%E4%BA%8B"
+	},
+	{
+		"text": "新しいページ",
+		"url": "https://ja.wikipedia.org/wiki/%E7%89%B9%E5%88%A5:%E6%96%B0%E3%81%97%E3%81%84%E3%83%9A%E3%83%BC%E3%82%B8"
+	},
+	{
+		"text": "最近の更新",
+		"url": "https://ja.wikipedia.org/wiki/%E7%89%B9%E5%88%A5:%E6%9C%80%E8%BF%91%E3%81%AE%E6%9B%B4%E6%96%B0"
+	},
+	{
+		"text": "おまかせ表示",
+		"url": "https://ja.wikipedia.org/wiki/%E7%89%B9%E5%88%A5:%E3%81%8A%E3%81%BE%E3%81%8B%E3%81%9B%E8%A1%A8%E7%A4%BA"
+	},
+	{
+		"text": "練習用ページ",
+		"url": "https://ja.wikipedia.org/wiki/Wikipedia:%E3%82%B5%E3%83%B3%E3%83%89%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9"
+	},
+	{
+		"text": "アップロード (ウィキメディア・コモンズ)",
+		"url": "https://commons.wikimedia.org/wiki/Special:UploadWizard?uselang=ja"
+	},
+	{
+		"text": "ヘルプ",
+		"url": "https://ja.wikipedia.org/wiki/Help:%E7%9B%AE%E6%AC%A1"
+	},
+	{
+		"text": "井戸端",
+		"url": "https://ja.wikipedia.org/wiki/Wikipedia:%E4%BA%95%E6%88%B8%E7%AB%AF"
+	},
+	{
+		"text": "お知らせ",
+		"url": "https://ja.wikipedia.org/wiki/Wikipedia:%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B"
+	},
+	{
+		"text": "バグの報告",
+		"url": "https://ja.wikipedia.org/wiki/Wikipedia:%E3%83%90%E3%82%B0%E3%81%AE%E5%A0%B1%E5%91%8A"
+	},
+	{
+		"text": "寄付",
+		"url": "https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&utm_medium=sidebar&utm_campaign=C13_ja.wikipedia.org&uselang=ja"
+	},
+	{
+		"text": "ウィキペディアに関するお問い合わせ",
+		"url": "https://ja.wikipedia.org/wiki/Wikipedia:%E9%80%A3%E7%B5%A1%E5%85%88"
+	},
+	{
+		"text": "リンク元",
+		"url": "https://ja.wikipedia.org/wiki/%E7%89%B9%E5%88%A5:%E3%83%AA%E3%83%B3%E3%82%AF%E5%85%83/%E6%97%A5%E6%9C%AC%E7%8C%AB"
+	},
+	{
+		"text": "関連ページの更新状況",
+		"url": "https://ja.wikipedia.org/wiki/%E7%89%B9%E5%88%A5:%E9%96%A2%E9%80%A3%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%AE%E6%9B%B4%E6%96%B0%E7%8A%B6%E6%B3%81/%E6%97%A5%E6%9C%AC%E7%8C%AB"
+	},
+	{
+		"text": "ファイルをアップロード",
+		"url": "https://ja.wikipedia.org/wiki/Wikipedia:%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%81%AE%E3%82%A2%E3%83%83%E3%83%97%E3%83%AD%E3%83%BC%E3%83%89"
+	},
+	{
+		"text": "特別ページ",
+		"url": "https://ja.wikipedia.org/wiki/%E7%89%B9%E5%88%A5:%E7%89%B9%E5%88%A5%E3%83%9A%E3%83%BC%E3%82%B8%E4%B8%80%E8%A6%A7"
+	},
+	{
+		"text": "ウィキデータ項目",
+		"url": "https://www.wikidata.org/wiki/Special:EntityPage/Q11508577"
+	},
+	{
+		"text": "コモンズ",
+		"url": "https://commons.wikimedia.org/wiki/Category:Cats_of_Japan"
+	},
+	{
+		"text": "ページの先頭をご覧ください",
+		"url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%8C%AB#p-lang-btn"
+	},
+	{
+		"text": "\n\t\t\t\t\t\tページ先頭\n\t\t\t\t\t",
+		"url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%8C%AB#"
+	},
+	{
+		"text": "\n\t\t\t\t\n\t\t\t\t1特徴\n\t\t\t",
+		"url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%8C%AB#%E7%89%B9%E5%BE%B4"
+	},
+	{
+		"text": "\n\t\t\t\t\n\t\t\t\t2歴史\n\t\t\t",
+		"url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%8C%AB#%E6%AD%B4%E5%8F%B2"
+	},
+	{
+		"text": "\n\t\t\t\t\n\t\t\t\t3標準型\n\t\t\t",
+		"url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%8C%AB#%E6%A8%99%E6%BA%96%E5%9E%8B"
+	},
+	{
+		"text": "\n\t\t\t\t\n\t\t\t\t4公認被毛色\n\t\t\t",
+		"url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%8C%AB#%E5%85%AC%E8%AA%8D%E8%A2%AB%E6%AF%9B%E8%89%B2"
+	},
+	{
+		"text": "\n\t\t\t\t\n\t\t\t\t5尻尾の短い日本猫\n\t\t\t",
+		"url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%8C%AB#%E5%B0%BB%E5%B0%BE%E3%81%AE%E7%9F%AD%E3%81%84%E6%97%A5%E6%9C%AC%E7%8C%AB"
+	},
+	{
+		"text": "\n\t\t\t\t\n\t\t\t\t6脚注\n\t\t\t",
+		"url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%8C%AB#%E8%84%9A%E6%B3%A8"
+	},
+	{
+		"text": "\n\t\t\t\t\n\t\t\t\t6.1注釈\n\t\t\t",
+		"url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%8C%AB#%E6%B3%A8%E9%87%88"
+	},
+	{
+		"text": "\n\t\t\t\t\n\t\t\t\t6.2出典\n\t\t\t",
+		"url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%8C%AB#%E5%87%BA%E5%85%B8"
+	},
+	{
+		"text": "\n\t\t\t\t\n\t\t\t\t7参考文献\n\t\t\t",
+		"url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%8C%AB#%E5%8F%82%E8%80%83%E6%96%87%E7%8C%AE"
+	},
+	{
+		"text": "\n\t\t\t\t\n\t\t\t\t8関連項目\n\t\t\t",
+		"url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%8C%AB#%E9%96%A2%E9%80%A3%E9%A0%85%E7%9B%AE"
+	},
+	{
+		"text": "Azərbaycanca",
+		"url": "https://az.wikipedia.org/wiki/Yaponiyada_pi%C5%9Fikl%C9%99r"
+	},
+	{
+		"text": "リンクを編集",
+		"url": "https://www.wikidata.org/wiki/Special:EntityPage/Q11508577#sitelinks-wikipedia"
+	},
+	{
+		"text": "ページ",
+		"url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%8C%AB"
+	},
+	{
+		"text": "ノート",
+		"url": "https://ja.wikipedia.org/wiki/%E3%83%8E%E3%83%BC%E3%83%88:%E6%97%A5%E6%9C%AC%E7%8C%AB"
+	},
+	{
+		"text": "閲覧",
+		"url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%8C%AB"
+	},
+	{
+		"text": "閲覧",
+		"url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%8C%AB"
+	},
+	{
+		"text": "竹内栖鳳",
+		"url": "https://ja.wikipedia.org/wiki/%E7%AB%B9%E5%86%85%E6%A0%96%E9%B3%B3"
+	},
+	{
+		"text": "1924年",
+		"url": "https://ja.wikipedia.org/wiki/1924%E5%B9%B4"
+	},
+	{
+		"text": "日本人",
+		"url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E4%BA%BA"
+	},
+	{
+		"text": "日本",
+		"url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC"
+	},
+	{
+		"text": "猫",
+		"url": "https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%B3"
+	},
+	{
+		"text": "[1]",
+		"url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%8C%AB#cite_note-1"
+	},
+	{
+		"text": "検証可能",
+		"url": "https://ja.wikipedia.org/wiki/Wikipedia:%E6%A4%9C%E8%A8%BC%E5%8F%AF%E8%83%BD%E6%80%A7"
+	},
+	{
+		"text": "参考文献や出典",
+		"url": "https://ja.wikipedia.org/wiki/Wikipedia:%E4%BF%A1%E9%A0%BC%E3%81%A7%E3%81%8D%E3%82%8B%E6%83%85%E5%A0%B1%E6%BA%90"
+	},
+	{
+		"text": "出典を追加",
+		"url": "https://ja.wikipedia.org/wiki/Wikipedia:%E5%87%BA%E5%85%B8%E3%82%92%E6%98%8E%E8%A8%98%E3%81%99%E3%82%8B"
+	},
+	{
+		"text": "?",
+		"url": "https://ja.wikipedia.org/wiki/Template:Find_sources_mainspace"
+	},
+	{
+		"text": "関西",
+		"url": "https://ja.wikipedia.org/wiki/%E9%96%A2%E8%A5%BF"
+	},
+	{
+		"text": "[2]",
+		"url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%8C%AB#cite_note-2"
+	},
+	{
+		"text": "妖怪",
+		"url": "https://ja.wikipedia.org/wiki/%E5%A6%96%E6%80%AA"
+	},
+	{
+		"text": "猫又",
+		"url": "https://ja.wikipedia.org/wiki/%E7%8C%AB%E5%8F%88"
+	},
+	{
+		"text": "[3]",
+		"url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%8C%AB#cite_note-3"
+	},
+	{
+		"text": "縞模様",
+		"url": "https://ja.wikipedia.org/wiki/%E7%B8%9E%E6%A8%A1%E6%A7%98"
+	},
+	{
+		"text": "三毛猫",
+		"url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E6%AF%9B%E7%8C%AB"
+	},
+	{
+		"text": "トラネコ",
+		"url": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%A9%E3%83%8D%E3%82%B3"
+	},
+	{
+		"text": "隔世遺伝",
+		"url": "https://ja.wikipedia.org/wiki/%E9%9A%94%E4%B8%96%E9%81%BA%E4%BC%9D"
+	},
+	{
+		"text": "伴性遺伝",
+		"url": "https://ja.wikipedia.org/wiki/%E4%BC%B4%E6%80%A7%E9%81%BA%E4%BC%9D"
+	},
+	{
+		"text": "サビ猫",
+		"url": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%93%E7%8C%AB"
+	},
+	{
+		"text": "歌川広重",
+		"url": "https://ja.wikipedia.org/wiki/%E6%AD%8C%E5%B7%9D%E5%BA%83%E9%87%8D"
+	},
+	{
+		"text": "1857年",
+		"url": "https://ja.wikipedia.org/wiki/1857%E5%B9%B4"
+	},
+	{
+		"text": "日本列島",
+		"url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E5%88%97%E5%B3%B6"
+	},
+	{
+		"text": "縄文時代",
+		"url": "https://ja.wikipedia.org/wiki/%E7%B8%84%E6%96%87%E6%99%82%E4%BB%A3"
+	},
+	{
+		"text": "家畜",
+		"url": "https://ja.wikipedia.org/wiki/%E5%AE%B6%E7%95%9C"
+	},
+	{
+		"text": "縄文犬",
+		"url": "https://ja.wikipedia.org/wiki/%E7%B8%84%E6%96%87%E7%8A%AC"
+	},
+	{
+		"text": "[注釈 1]",
+		"url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%8C%AB#cite_note-4"
+	},
+	{
+		"text": "弥生時代",
+		"url": "https://ja.wikipedia.org/wiki/%E5%BC%A5%E7%94%9F%E6%99%82%E4%BB%A3"
+	},
+	{
+		"text": "稲作",
+		"url": "https://ja.wikipedia.org/wiki/%E7%A8%B2%E4%BD%9C"
+	},
+	{
+		"text": "長崎県",
+		"url": "https://ja.wikipedia.org/wiki/%E9%95%B7%E5%B4%8E%E7%9C%8C"
+	},
+	{
+		"text": "壱岐市",
+		"url": "https://ja.wikipedia.org/wiki/%E5%A3%B1%E5%B2%90%E5%B8%82"
+	},
+	{
+		"text": "カラカミ遺跡",
+		"url": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%A9%E3%82%AB%E3%83%9F%E9%81%BA%E8%B7%A1"
+	},
+	{
+		"text": "弥生時代",
+		"url": "https://ja.wikipedia.org/wiki/%E5%BC%A5%E7%94%9F%E6%99%82%E4%BB%A3"
+	},
+	{
+		"text": "[4]",
+		"url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%8C%AB#cite_note-5"
+	},
+	{
+		"text": "奈良時代",
+		"url": "https://ja.wikipedia.org/wiki/%E5%A5%88%E8%89%AF%E6%99%82%E4%BB%A3"
+	},
+	{
+		"text": "経典",
+		"url": "https://ja.wikipedia.org/wiki/%E7%B5%8C%E5%85%B8"
+	},
+	{
+		"text": "中国",
+		"url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E3%81%AE%E6%AD%B4%E5%8F%B2"
+	},
+	{
+		"text": "古事記",
+		"url": "https://ja.wikipedia.org/wiki/%E5%8F%A4%E4%BA%8B%E8%A8%98"
+	},
+	{
+		"text": "日本書紀",
+		"url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%9B%B8%E7%B4%80"
+	},
+	{
+		"text": "日本霊異記",
+		"url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%8F%BE%E5%A0%B1%E5%96%84%E6%82%AA%E9%9C%8A%E7%95%B0%E8%A8%98"
+	},
+	{
+		"text": "705年",
+		"url": "https://ja.wikipedia.org/wiki/705%E5%B9%B4"
+	},
+	{
+		"text": "慶雲",
+		"url": "https://ja.wikipedia.org/wiki/%E6%85%B6%E9%9B%B2"
+	},
+	{
+		"text": "豊前国",
+		"url": "https://ja.wikipedia.org/wiki/%E8%B1%8A%E5%89%8D%E5%9B%BD"
+	},
+	{
+		"text": "福岡県",
+		"url": "https://ja.wikipedia.org/wiki/%E7%A6%8F%E5%B2%A1%E7%9C%8C"
+	},
+	{
+		"text": "[5]",
+		"url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%8C%AB#cite_note-hiraiwa1998014-6"
+	},
+	{
+		"text": "[6]",
+		"url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%8C%AB#cite_note-hiraiwa_p19-20-7"
+	},
+	{
+		"text": "889年",
+		"url": "https://ja.wikipedia.org/wiki/889%E5%B9%B4"
+	},
+	{
+		"text": "昌泰",
+		"url": "https://ja.wikipedia.org/wiki/%E6%98%8C%E6%B3%B0"
+	},
+	{
+		"text": "宇多天皇",
+		"url": "https://ja.wikipedia.org/wiki/%E5%AE%87%E5%A4%9A%E5%A4%A9%E7%9A%87"
+	},
+	{
+		"text": "黒猫",
+		"url": "https://ja.wikipedia.org/wiki/%E9%BB%92%E7%8C%AB"
+	},
+	{
+		"text": "[7]",
+		"url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%8C%AB#cite_note-p19-8"
+	},
+	{
+		"text": "花山天皇",
+		"url": "https://ja.wikipedia.org/wiki/%E8%8A%B1%E5%B1%B1%E5%A4%A9%E7%9A%87"
+	},
+	{
+		"text": "三條の皇太后",
+		"url": "https://ja.wikipedia.org/wiki/%E6%98%8C%E5%AD%90%E5%86%85%E8%A6%AA%E7%8E%8B"
+	},
+	{
+		"text": "御製",
+		"url": "https://ja.wikipedia.org/wiki/%E5%BE%A1%E8%A3%BD"
+	},
+	{
+		"text": "[8]",
+		"url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%8C%AB#cite_note-p20-9"
+	},
+	{
+		"text": "平安時代",
+		"url": "https://ja.wikipedia.org/wiki/%E5%B9%B3%E5%AE%89%E6%99%82%E4%BB%A3"
+	},
+	{
+		"text": "和歌",
+		"url": "https://ja.wikipedia.org/wiki/%E5%92%8C%E6%AD%8C"
+	},
+	{
+		"text": "戦国時代",
+		"url": "https://ja.wikipedia.org/wiki/%E6%88%A6%E5%9B%BD%E6%99%82%E4%BB%A3_(%E6%97%A5%E6%9C%AC)"
+	},
+	{
+		"text": "タイ",
+		"url": "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%82%A4%E7%8E%8B%E5%9B%BD"
+	},
+	{
+		"text": "東南アジア",
+		"url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E5%8D%97%E3%82%A2%E3%82%B8%E3%82%A2"
+	},
+	{
+		"text": "江戸時代",
+		"url": "https://ja.wikipedia.org/wiki/%E6%B1%9F%E6%88%B8%E6%99%82%E4%BB%A3"
+	},
+	{
+		"text": "日光東照宮",
+		"url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E5%85%89%E6%9D%B1%E7%85%A7%E5%AE%AE"
+	},
+	{
+		"text": "眠り猫",
+		"url": "https://ja.wikipedia.org/wiki/%E7%9C%A0%E3%82%8A%E7%8C%AB"
+	},
+	{
+		"text": "左甚五郎",
+		"url": "https://ja.wikipedia.org/wiki/%E5%B7%A6%E7%94%9A%E4%BA%94%E9%83%8E"
+	},
+	{
+		"text": "[9]",
+		"url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%8C%AB#cite_note-10"
+	},
+	{
+		"text": "慶長",
+		"url": "https://ja.wikipedia.org/wiki/%E6%85%B6%E9%95%B7"
+	},
+	{
+		"text": "西洞院時慶",
+		"url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%B4%9E%E9%99%A2%E6%99%82%E6%85%B6"
+	},
+	{
+		"text": "[10]",
+		"url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%8C%AB#cite_note-hiraiwa1998228-11"
+	},
+	{
+		"text": "[11]",
+		"url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%8C%AB#cite_note-ueda-12"
+	},
+	{
+		"text": "[12]",
+		"url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%8C%AB#cite_note-p22-13"
+	},
+	{
+		"text": "幸若舞",
+		"url": "https://ja.wikipedia.org/wiki/%E5%B9%B8%E8%8B%A5%E8%88%9E"
+	},
+	{
+		"text": "[13]",
+		"url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%8C%AB#cite_note-Holland_p154-155-14"
+	},
+	{
+		"text": "[14]",
+		"url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%8C%AB#cite_note-15"
+	},
+	{
+		"text": "甲子夜話",
+		"url": "https://ja.wikipedia.org/wiki/%E7%94%B2%E5%AD%90%E5%A4%9C%E8%A9%B1"
+	},
+	{
+		"text": "寛政",
+		"url": "https://ja.wikipedia.org/wiki/%E5%AF%9B%E6%94%BF"
+	},
+	{
+		"text": "水野為長",
+		"url": "https://ja.wikipedia.org/wiki/%E6%B0%B4%E9%87%8E%E7%82%BA%E9%95%B7"
+	},
+	{
+		"text": "[10]",
+		"url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%8C%AB#cite_note-hiraiwa1998228-11"
+	},
+	{
+		"text": "1945年",
+		"url": "https://ja.wikipedia.org/wiki/1945%E5%B9%B4"
+	},
+	{
+		"text": "第二次世界大戦",
+		"url": "https://ja.wikipedia.org/wiki/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E4%B8%96%E7%95%8C%E5%A4%A7%E6%88%A6"
+	},
+	{
+		"text": "シャム猫",
+		"url": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A3%E3%83%A0%E7%8C%AB"
+	},
+	{
+		"text": "20世紀",
+		"url": "https://ja.wikipedia.org/wiki/20%E4%B8%96%E7%B4%80"
+	},
+	{
+		"text": "[15]",
+		"url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%8C%AB#cite_note-p21-22-16"
+	},
+	{
+		"text": "[12]",
+		"url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%8C%AB#cite_note-p22-13"
+	},
+	{
+		"text": "ペルシャ",
+		"url": "https://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%AB%E3%82%B7%E3%83%A3_(%E3%83%8D%E3%82%B3)"
+	},
+	{
+		"text": "シャム",
+		"url": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A3%E3%83%A0_(%E3%83%8D%E3%82%B3)"
+	},
+	{
+		"text": "[16]",
+		"url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%8C%AB#cite_note-p23-17"
+	},
+	{
+		"text": "1971年",
+		"url": "https://ja.wikipedia.org/wiki/1971%E5%B9%B4"
+	},
+	{
+		"text": "平岩米吉",
+		"url": "https://ja.wikipedia.org/wiki/%E5%B9%B3%E5%B2%A9%E7%B1%B3%E5%90%89"
+	},
+	{
+		"text": "[17]",
+		"url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%8C%AB#cite_note-p24-18"
+	},
+	{
+		"text": "沖縄",
+		"url": "https://ja.wikipedia.org/wiki/%E6%B2%96%E7%B8%84%E7%9C%8C"
+	},
+	{
+		"text": "奄美大島",
+		"url": "https://ja.wikipedia.org/wiki/%E5%A5%84%E7%BE%8E%E5%A4%A7%E5%B3%B6"
+	},
+	{
+		"text": "ノネコ",
+		"url": "https://ja.wikipedia.org/wiki/%E9%87%8E%E7%8C%AB"
+	},
+	{
+		"text": "ヤンバルクイナ",
+		"url": "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%B3%E3%83%90%E3%83%AB%E3%82%AF%E3%82%A4%E3%83%8A"
+	},
+	{
+		"text": "マングース",
+		"url": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%B3%E3%82%B0%E3%83%BC%E3%82%B9"
+	},
+	{
+		"text": "[18]",
+		"url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%8C%AB#cite_note-19"
+	},
+	{
+		"text": "平岩米吉",
+		"url": "https://ja.wikipedia.org/wiki/%E5%B9%B3%E5%B2%A9%E7%B1%B3%E5%90%89"
+	},
+	{
+		"text": "1971年",
+		"url": "https://ja.wikipedia.org/wiki/1971%E5%B9%B4"
+	},
+	{
+		"text": "昭和",
+		"url": "https://ja.wikipedia.org/wiki/%E6%98%AD%E5%92%8C"
+	},
+	{
+		"text": "[19]",
+		"url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%8C%AB#cite_note-p39-40-20"
+	},
+	{
+		"text": "[20]",
+		"url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%8C%AB#cite_note-p44-49-21"
+	},
+	{
+		"text": "白",
+		"url": "https://ja.wikipedia.org/wiki/%E7%99%BD%E7%8C%AB"
+	},
+	{
+		"text": "オッドアイ",
+		"url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%83%E3%83%89%E3%82%A2%E3%82%A4"
+	},
+	{
+		"text": "黒",
+		"url": "https://ja.wikipedia.org/wiki/%E9%BB%92%E7%8C%AB"
+	},
+	{
+		"text": "斑部門",
+		"url": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%81%E3%83%8D%E3%82%B3"
+	},
+	{
+		"text": "三毛",
+		"url": "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%82%B1%E3%83%8D%E3%82%B3"
+	},
+	{
+		"text": "鯖",
+		"url": "https://ja.wikipedia.org/wiki/%E9%AF%96"
+	},
+	{
+		"text": "雉",
+		"url": "https://ja.wikipedia.org/wiki/%E9%9B%89"
+	},
+	{
+		"text": "1910年",
+		"url": "https://ja.wikipedia.org/wiki/1910%E5%B9%B4"
+	},
+	{
+		"text": "イギリス",
+		"url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%AE%E3%83%AA%E3%82%B9"
+	},
+	{
+		"text": "[21]",
+		"url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%8C%AB#cite_note-p51-22"
+	},
+	{
+		"text": "[21]",
+		"url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%8C%AB#cite_note-p51-22"
+	},
+	{
+		"text": "1690年",
+		"url": "https://ja.wikipedia.org/wiki/1690%E5%B9%B4"
+	},
+	{
+		"text": "エンゲルベルト・ケンペル",
+		"url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%B3%E3%82%B2%E3%83%AB%E3%83%99%E3%83%AB%E3%83%88%E3%83%BB%E3%82%B1%E3%83%B3%E3%83%9A%E3%83%AB"
+	},
+	{
+		"text": "日本誌",
+		"url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E8%AA%8C"
+	},
+	{
+		"text": "小泉八雲",
+		"url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E6%B3%89%E5%85%AB%E9%9B%B2"
+	},
+	{
+		"text": "骨董",
+		"url": "https://ja.wikipedia.org/wiki/%E9%AA%A8%E8%91%A3_(%E5%B0%8F%E6%B3%89%E5%85%AB%E9%9B%B2)"
+	},
+	{
+		"text": "[22]",
+		"url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%8C%AB#cite_note-p50-23"
+	},
+	{
+		"text": "マーガレット・バラ",
+		"url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%83%BC%E3%83%A0%E3%82%B9%E3%83%BB%E3%83%8F%E3%83%9F%E3%83%AB%E3%83%88%E3%83%B3%E3%83%BB%E3%83%90%E3%83%A9"
+	},
+	{
+		"text": "[23]",
+		"url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%8C%AB#cite_note-24"
+	},
+	{
+		"text": "[22]",
+		"url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%8C%AB#cite_note-p50-23"
+	},
+	{
+		"text": "フランツ・ドフライン",
+		"url": "https://de.wikipedia.org/wiki/Franz_Theodor_Doflein"
+	},
+	{
+		"text": "[21]",
+		"url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%8C%AB#cite_note-p51-22"
+	},
+	{
+		"text": "ジャパニーズボブテイル",
+		"url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%91%E3%83%8B%E3%83%BC%E3%82%BA%E3%83%9C%E3%83%96%E3%83%86%E3%82%A4%E3%83%AB"
+	},
+	{
+		"text": "1976年",
+		"url": "https://ja.wikipedia.org/wiki/1976%E5%B9%B4"
+	},
+	{
+		"text": "^",
+		"url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%8C%AB#cite_ref-4"
+	},
+	{
+		"text": "ヤマネコ",
+		"url": "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%9E%E3%83%8D%E3%82%B3"
+	},
+	{
+		"text": "オオヤマネコ",
+		"url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%AA%E3%83%A4%E3%83%9E%E3%83%8D%E3%82%B3"
+	},
+	{
+		"text": "^",
+		"url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%8C%AB#cite_ref-1"
+	},
+	{
+		"text": "^",
+		"url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%8C%AB#cite_ref-2"
+	},
+	{
+		"text": "^",
+		"url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%8C%AB#cite_ref-3"
+	},
+	{
+		"text": "ブルース・フォーグル",
+		"url": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AB%E3%83%BC%E3%82%B9%E3%83%BB%E3%83%95%E3%82%A9%E3%83%BC%E3%82%B0%E3%83%AB"
+	},
+	{
+		"text": "ネコ・パブリッシング",
+		"url": "https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%B3%E3%83%BB%E3%83%91%E3%83%96%E3%83%AA%E3%83%83%E3%82%B7%E3%83%B3%E3%82%B0"
+	},
+	{
+		"text": "^",
+		"url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%8C%AB#cite_ref-5"
+	},
+	{
+		"text": "^",
+		"url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%8C%AB#cite_ref-hiraiwa1998014_6-0"
+	},
+	{
+		"text": "平岩 (1998)",
+		"url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%8C%AB#%E5%B9%B3%E5%B2%A9_(1998)"
+	},
+	{
+		"text": "^",
+		"url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%8C%AB#cite_ref-hiraiwa_p19-20_7-0"
+	},
+	{
+		"text": "^",
+		"url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%8C%AB#cite_ref-p19_8-0"
+	},
+	{
+		"text": "日本猫の飼い方",
+		"url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%8C%AB#%E6%97%A5%E6%9C%AC%E7%8C%AB"
+	},
+	{
+		"text": "^",
+		"url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%8C%AB#cite_ref-p20_9-0"
+	},
+	{
+		"text": "日本猫の飼い方",
+		"url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%8C%AB#%E6%97%A5%E6%9C%AC%E7%8C%AB"
+	},
+	{
+		"text": "^",
+		"url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%8C%AB#cite_ref-10"
+	},
+	{
+		"text": "藤原 (2014)",
+		"url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%8C%AB#%E8%97%A4%E5%8E%9F_(2014)"
+	},
+	{
+		"text": "a",
+		"url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%8C%AB#cite_ref-hiraiwa1998228_11-0"
+	},
+	{
+		"text": "b",
+		"url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%8C%AB#cite_ref-hiraiwa1998228_11-1"
+	},
+	{
+		"text": "平岩 (1998)",
+		"url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%8C%AB#%E5%B9%B3%E5%B2%A9_(1998)"
+	},
+	{
+		"text": "^",
+		"url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%8C%AB#cite_ref-ueda_12-0"
+	},
+	{
+		"text": "a",
+		"url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%8C%AB#cite_ref-p22_13-0"
+	},
+	{
+		"text": "b",
+		"url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%8C%AB#cite_ref-p22_13-1"
+	},
+	{
+		"text": "日本猫の飼い方",
+		"url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%8C%AB#%E6%97%A5%E6%9C%AC%E7%8C%AB"
+	},
+	{
+		"text": "^",
+		"url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%8C%AB#cite_ref-Holland_p154-155_14-0"
+	},
+	{
+		"text": "^",
+		"url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%8C%AB#cite_ref-15"
+	},
+	{
+		"text": "三谷一馬",
+		"url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%B0%B7%E4%B8%80%E9%A6%AC"
+	},
+	{
+		"text": "中公文庫",
+		"url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%85%AC%E6%96%87%E5%BA%AB"
+	},
+	{
+		"text": "ISBN 4-12-202564-8",
+		"url": "https://ja.wikipedia.org/wiki/%E7%89%B9%E5%88%A5:%E6%96%87%E7%8C%AE%E8%B3%87%E6%96%99/4122025648"
+	},
+	{
+		"text": "^",
+		"url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%8C%AB#cite_ref-p21-22_16-0"
+	},
+	{
+		"text": "日本猫の飼い方",
+		"url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%8C%AB#%E6%97%A5%E6%9C%AC%E7%8C%AB"
+	},
+	{
+		"text": "^",
+		"url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%8C%AB#cite_ref-p23_17-0"
+	},
+	{
+		"text": "日本猫の飼い方",
+		"url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%8C%AB#%E6%97%A5%E6%9C%AC%E7%8C%AB"
+	},
+	{
+		"text": "^",
+		"url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%8C%AB#cite_ref-p24_18-0"
+	},
+	{
+		"text": "日本猫の飼い方",
+		"url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%8C%AB#%E6%97%A5%E6%9C%AC%E7%8C%AB"
+	},
+	{
+		"text": "^",
+		"url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%8C%AB#cite_ref-19"
+	},
+	{
+		"text": "^",
+		"url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%8C%AB#cite_ref-p39-40_20-0"
+	},
+	{
+		"text": "日本猫の飼い方",
+		"url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%8C%AB#%E6%97%A5%E6%9C%AC%E7%8C%AB"
+	},
+	{
+		"text": "^",
+		"url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%8C%AB#cite_ref-p44-49_21-0"
+	},
+	{
+		"text": "日本猫の飼い方",
+		"url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%8C%AB#%E6%97%A5%E6%9C%AC%E7%8C%AB"
+	},
+	{
+		"text": "a",
+		"url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%8C%AB#cite_ref-p51_22-0"
+	},
+	{
+		"text": "b",
+		"url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%8C%AB#cite_ref-p51_22-1"
+	},
+	{
+		"text": "c",
+		"url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%8C%AB#cite_ref-p51_22-2"
+	},
+	{
+		"text": "日本猫の飼い方",
+		"url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%8C%AB#%E6%97%A5%E6%9C%AC%E7%8C%AB"
+	},
+	{
+		"text": "a",
+		"url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%8C%AB#cite_ref-p50_23-0"
+	},
+	{
+		"text": "b",
+		"url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%8C%AB#cite_ref-p50_23-1"
+	},
+	{
+		"text": "日本猫の飼い方",
+		"url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%8C%AB#%E6%97%A5%E6%9C%AC%E7%8C%AB"
+	},
+	{
+		"text": "^",
+		"url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%8C%AB#cite_ref-24"
+	},
+	{
+		"text": "誠文堂新光社",
+		"url": "https://ja.wikipedia.org/wiki/%E8%AA%A0%E6%96%87%E5%A0%82%E6%96%B0%E5%85%89%E7%A4%BE"
+	},
+	{
+		"text": "ISBN",
+		"url": "https://ja.wikipedia.org/wiki/ISBN"
+	},
+	{
+		"text": "4416590059",
+		"url": "https://ja.wikipedia.org/wiki/%E7%89%B9%E5%88%A5:%E6%96%87%E7%8C%AE%E8%B3%87%E6%96%99/4416590059"
+	},
+	{
+		"text": "山川出版社",
+		"url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E5%B7%9D%E5%87%BA%E7%89%88%E7%A4%BE"
+	},
+	{
+		"text": "ISBN",
+		"url": "https://ja.wikipedia.org/wiki/ISBN"
+	},
+	{
+		"text": "978-4-634-54691-2",
+		"url": "https://ja.wikipedia.org/wiki/%E7%89%B9%E5%88%A5:%E6%96%87%E7%8C%AE%E8%B3%87%E6%96%99/978-4-634-54691-2"
+	},
+	{
+		"text": "平岩米吉",
+		"url": "https://ja.wikipedia.org/wiki/%E5%B9%B3%E5%B2%A9%E7%B1%B3%E5%90%89"
+	},
+	{
+		"text": "築地書館",
+		"url": "https://ja.wikipedia.org/wiki/%E7%AF%89%E5%9C%B0%E6%9B%B8%E9%A4%A8"
+	},
+	{
+		"text": "ISBN",
+		"url": "https://ja.wikipedia.org/wiki/ISBN"
+	},
+	{
+		"text": "4-8067-2339-8",
+		"url": "https://ja.wikipedia.org/wiki/%E7%89%B9%E5%88%A5:%E6%96%87%E7%8C%AE%E8%B3%87%E6%96%99/4-8067-2339-8"
+	},
+	{
+		"text": "ISBN 4062572214",
+		"url": "https://ja.wikipedia.org/wiki/%E7%89%B9%E5%88%A5:%E6%96%87%E7%8C%AE%E8%B3%87%E6%96%99/4062572214"
+	},
+	{
+		"text": "日本犬",
+		"url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%8A%AC"
+	},
+	{
+		"text": "ジャパニーズボブテイル",
+		"url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%91%E3%83%8B%E3%83%BC%E3%82%BA%E3%83%9C%E3%83%96%E3%83%86%E3%82%A4%E3%83%AB"
+	},
+	{
+		"text": "クリルアイランドボブテイル",
+		"url": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AA%E3%83%AB%E3%82%A2%E3%82%A4%E3%83%A9%E3%83%B3%E3%83%89%E3%83%9C%E3%83%96%E3%83%86%E3%82%A4%E3%83%AB"
+	},
+	{
+		"text": "北海道",
+		"url": "https://ja.wikipedia.org/wiki/%E5%8C%97%E6%B5%B7%E9%81%93"
+	},
+	{
+		"text": "千島列島",
+		"url": "https://ja.wikipedia.org/wiki/%E5%8D%83%E5%B3%B6%E5%88%97%E5%B3%B6"
+	},
+	{
+		"text": "表",
+		"url": "https://ja.wikipedia.org/wiki/Template:%E3%83%8D%E3%82%B3"
+	},
+	{
+		"text": "話",
+		"url": "https://ja.wikipedia.org/wiki/Template%E2%80%90%E3%83%8E%E3%83%BC%E3%83%88:%E3%83%8D%E3%82%B3"
+	},
+	{
+		"text": "ネコ",
+		"url": "https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%B3"
+	},
+	{
+		"text": "野猫",
+		"url": "https://ja.wikipedia.org/wiki/%E9%87%8E%E7%8C%AB"
+	},
+	{
+		"text": "野良猫",
+		"url": "https://ja.wikipedia.org/wiki/%E9%87%8E%E8%89%AF%E7%8C%AB"
+	},
+	{
+		"text": "地域猫",
+		"url": "https://ja.wikipedia.org/wiki/%E5%9C%B0%E5%9F%9F%E7%8C%AB"
+	},
+	{
+		"text": "トキソプラズマ症",
+		"url": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%82%AD%E3%82%BD%E3%83%97%E3%83%A9%E3%82%BA%E3%83%9E%E7%97%87"
+	},
+	{
+		"text": "猫ひっかき病",
+		"url": "https://ja.wikipedia.org/wiki/%E7%8C%AB%E3%81%B2%E3%81%A3%E3%81%8B%E3%81%8D%E7%97%85"
+	},
+	{
+		"text": "パスツレラ症",
+		"url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%82%B9%E3%83%84%E3%83%AC%E3%83%A9%E7%97%87"
+	},
+	{
+		"text": "オッドアイ",
+		"url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%83%E3%83%89%E3%82%A2%E3%82%A4_(%E3%83%8D%E3%82%B3)"
+	},
+	{
+		"text": "多指症の猫",
+		"url": "https://ja.wikipedia.org/wiki/%E5%A4%9A%E6%8C%87%E7%97%87%E3%81%AE%E7%8C%AB"
+	},
+	{
+		"text": "黒猫",
+		"url": "https://ja.wikipedia.org/wiki/%E9%BB%92%E7%8C%AB"
+	},
+	{
+		"text": "白猫",
+		"url": "https://ja.wikipedia.org/wiki/%E7%99%BD%E7%8C%AB"
+	},
+	{
+		"text": "ブチネコ",
+		"url": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%81%E3%83%8D%E3%82%B3"
+	},
+	{
+		"text": "はちわれ",
+		"url": "https://ja.wikipedia.org/wiki/%E3%81%AF%E3%81%A1%E3%82%8F%E3%82%8C"
+	},
+	{
+		"text": "虎猫",
+		"url": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%A9%E3%83%8D%E3%82%B3"
+	},
+	{
+		"text": "三毛猫",
+		"url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E6%AF%9B%E7%8C%AB"
+	},
+	{
+		"text": "錆び猫",
+		"url": "https://ja.wikipedia.org/wiki/%E9%8C%86%E3%81%B3%E7%8C%AB"
+	},
+	{
+		"text": "マルタ猫",
+		"url": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%AB%E3%82%BF%E7%8C%AB"
+	},
+	{
+		"text": "ネコの品種",
+		"url": "https://ja.wikipedia.org/wiki/%E7%8C%AB%E3%81%AE%E5%93%81%E7%A8%AE%E3%81%AE%E4%B8%80%E8%A6%A7"
+	},
+	{
+		"text": "アビシニアン",
+		"url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%93%E3%82%B7%E3%83%8B%E3%82%A2%E3%83%B3"
+	},
+	{
+		"text": "アメリカンカール",
+		"url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E3%83%B3%E3%82%AB%E3%83%BC%E3%83%AB"
+	},
+	{
+		"text": "アメリカンショートヘア",
+		"url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%83%98%E3%82%A2"
+	},
+	{
+		"text": "アメリカンボブテイル",
+		"url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E3%83%B3%E3%83%9C%E3%83%96%E3%83%86%E3%82%A4%E3%83%AB"
+	},
+	{
+		"text": "アメリカンワイヤーヘア",
+		"url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E3%83%B3%E3%83%AF%E3%82%A4%E3%83%A4%E3%83%BC%E3%83%98%E3%82%A2"
+	},
+	{
+		"text": "ヴァン猫",
+		"url": "https://ja.wikipedia.org/wiki/%E3%83%B4%E3%82%A1%E3%83%B3%E7%8C%AB"
+	},
+	{
+		"text": "エジプシャンマウ",
+		"url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B8%E3%83%97%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%9E%E3%82%A6"
+	},
+	{
+		"text": "オシキャット",
+		"url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%B7%E3%82%AD%E3%83%A3%E3%83%83%E3%83%88"
+	},
+	{
+		"text": "キムリック",
+		"url": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A0%E3%83%AA%E3%83%83%E3%82%AF_(%E3%83%8D%E3%82%B3)"
+	},
+	{
+		"text": "クリルアイランドボブテイル",
+		"url": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AA%E3%83%AB%E3%82%A2%E3%82%A4%E3%83%A9%E3%83%B3%E3%83%89%E3%83%9C%E3%83%96%E3%83%86%E3%82%A4%E3%83%AB"
+	},
+	{
+		"text": "コーニッシュレックス",
+		"url": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%BC%E3%83%8B%E3%83%83%E3%82%B7%E3%83%A5%E3%83%AC%E3%83%83%E3%82%AF%E3%82%B9"
+	},
+	{
+		"text": "コラット",
+		"url": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%A9%E3%83%83%E3%83%88"
+	},
+	{
+		"text": "サイベリアン",
+		"url": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%A4%E3%83%99%E3%83%AA%E3%82%A2%E3%83%B3"
+	},
+	{
+		"text": "英語版",
+		"url": "https://en.wikipedia.org/wiki/German_Rex"
+	},
+	{
+		"text": "ジャバニーズ",
+		"url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%90%E3%83%8B%E3%83%BC%E3%82%BA"
+	},
+	{
+		"text": "ジャパニーズボブテイル",
+		"url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%91%E3%83%8B%E3%83%BC%E3%82%BA%E3%83%9C%E3%83%96%E3%83%86%E3%82%A4%E3%83%AB"
+	},
+	{
+		"text": "シャム",
+		"url": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A3%E3%83%A0_(%E3%83%8D%E3%82%B3)"
+	},
+	{
+		"text": "シャルトリュー",
+		"url": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A3%E3%83%AB%E3%83%88%E3%83%AA%E3%83%A5%E3%83%BC"
+	},
+	{
+		"text": "シンガプーラ",
+		"url": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%B3%E3%82%AC%E3%83%97%E3%83%BC%E3%83%A9"
+	},
+	{
+		"text": "スコティッシュフォールド",
+		"url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%B3%E3%83%86%E3%82%A3%E3%83%83%E3%82%B7%E3%83%A5%E3%83%95%E3%82%A9%E3%83%BC%E3%83%AB%E3%83%89"
+	},
+	{
+		"text": "スフィンクス",
+		"url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%95%E3%82%A3%E3%83%B3%E3%82%AF%E3%82%B9_(%E3%83%8D%E3%82%B3)"
+	},
+	{
+		"text": "セルカークレックス",
+		"url": "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%AB%E3%82%AB%E3%83%BC%E3%82%AF%E3%83%AC%E3%83%83%E3%82%AF%E3%82%B9"
+	},
+	{
+		"text": "ソマリ",
+		"url": "https://ja.wikipedia.org/wiki/%E3%82%BD%E3%83%9E%E3%83%AA_(%E3%83%8D%E3%82%B3)"
+	},
+	{
+		"text": "ターキッシュアンゴラ",
+		"url": "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%BC%E3%82%AD%E3%83%83%E3%82%B7%E3%83%A5%E3%82%A2%E3%83%B3%E3%82%B4%E3%83%A9"
+	},
+	{
+		"text": "ターキッシュバン",
+		"url": "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%BC%E3%82%AD%E3%83%83%E3%82%B7%E3%83%A5%E3%83%90%E3%83%B3"
+	},
+	{
+		"text": "デボンレックス",
+		"url": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%9C%E3%83%B3%E3%83%AC%E3%83%83%E3%82%AF%E3%82%B9"
+	},
+	{
+		"text": "トンキニーズ",
+		"url": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%B3%E3%82%AD%E3%83%8B%E3%83%BC%E3%82%BA"
+	},
+	{
+		"text": "ドンスコイ",
+		"url": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%B3%E3%82%B9%E3%82%B3%E3%82%A4"
+	},
+	{
+		"text": "ノルウェージャンフォレストキャット",
+		"url": "https://ja.wikipedia.org/wiki/%E3%83%8E%E3%83%AB%E3%82%A6%E3%82%A7%E3%83%BC%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AC%E3%82%B9%E3%83%88%E3%82%AD%E3%83%A3%E3%83%83%E3%83%88"
+	},
+	{
+		"text": "バーマン",
+		"url": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%BC%E3%83%9E%E3%83%B3"
+	},
+	{
+		"text": "バーミーズ",
+		"url": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%BC%E3%83%9F%E3%83%BC%E3%82%BA"
+	},
+	{
+		"text": "バリニーズ",
+		"url": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%AA%E3%83%8B%E3%83%BC%E3%82%BA"
+	},
+	{
+		"text": "英語版",
+		"url": "https://en.wikipedia.org/wiki/Peterbald"
+	},
+	{
+		"text": "ピクシーボブ",
+		"url": "https://ja.wikipedia.org/wiki/%E3%83%94%E3%82%AF%E3%82%B7%E3%83%BC%E3%83%9C%E3%83%96"
+	},
+	{
+		"text": "ヒマラヤン",
+		"url": "https://ja.wikipedia.org/wiki/%E3%83%92%E3%83%9E%E3%83%A9%E3%83%A4%E3%83%B3"
+	},
+	{
+		"text": "ブリティッシュショートヘア",
+		"url": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AA%E3%83%86%E3%82%A3%E3%83%83%E3%82%B7%E3%83%A5%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%83%98%E3%82%A2"
+	},
+	{
+		"text": "ペルシャ",
+		"url": "https://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%AB%E3%82%B7%E3%83%A3_(%E3%83%8D%E3%82%B3)"
+	},
+	{
+		"text": "ボンベイ",
+		"url": "https://ja.wikipedia.org/wiki/%E3%83%9C%E3%83%B3%E3%83%99%E3%82%A4_(%E3%83%8D%E3%82%B3)"
+	},
+	{
+		"text": "マンクス",
+		"url": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%B3%E3%82%AF%E3%82%B9"
+	},
+	{
+		"text": "マンチカン",
+		"url": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%B3%E3%83%81%E3%82%AB%E3%83%B3"
+	},
+	{
+		"text": "ミンスキン",
+		"url": "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%B3%E3%82%B9%E3%82%AD%E3%83%B3"
+	},
+	{
+		"text": "メインクーン",
+		"url": "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%82%AF%E3%83%BC%E3%83%B3"
+	},
+	{
+		"text": "ヨーロピアンショートヘア",
+		"url": "https://ja.wikipedia.org/wiki/%E3%83%A8%E3%83%BC%E3%83%AD%E3%83%94%E3%82%A2%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%83%98%E3%82%A2"
+	},
+	{
+		"text": "ラガマフィン",
+		"url": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%AC%E3%83%9E%E3%83%95%E3%82%A3%E3%83%B3_(%E3%83%8D%E3%82%B3)"
+	},
+	{
+		"text": "ラグドール",
+		"url": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%B0%E3%83%89%E3%83%BC%E3%83%AB"
+	},
+	{
+		"text": "ラパーマ",
+		"url": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%91%E3%83%BC%E3%83%9E"
+	},
+	{
+		"text": "英語版",
+		"url": "https://en.wikipedia.org/wiki/Lykoi"
+	},
+	{
+		"text": "ロシアンブルー",
+		"url": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%82%B7%E3%82%A2%E3%83%B3%E3%83%96%E3%83%AB%E3%83%BC"
+	},
+	{
+		"text": "英語版",
+		"url": "https://en.wikipedia.org/wiki/Savannah_(cat)"
+	},
+	{
+		"text": "英語版",
+		"url": "https://en.wikipedia.org/wiki/Serengeti_cat"
+	},
+	{
+		"text": "英語版",
+		"url": "https://en.wikipedia.org/wiki/Chausie"
+	},
+	{
+		"text": "ベンガル",
+		"url": "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%B3%E3%82%AC%E3%83%AB_(%E3%83%8D%E3%82%B3)"
+	},
+	{
+		"text": "ネコの文化",
+		"url": "https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%B3%E3%81%AE%E6%96%87%E5%8C%96"
+	},
+	{
+		"text": "猫おどり",
+		"url": "https://ja.wikipedia.org/wiki/%E7%8C%AB%E3%81%8A%E3%81%A9%E3%82%8A"
+	},
+	{
+		"text": "猫草",
+		"url": "https://ja.wikipedia.org/wiki/%E7%8C%AB%E8%8D%89"
+	},
+	{
+		"text": "猫檀家",
+		"url": "https://ja.wikipedia.org/wiki/%E7%8C%AB%E6%AA%80%E5%AE%B6"
+	},
+	{
+		"text": "猫寺",
+		"url": "https://ja.wikipedia.org/wiki/%E7%8C%AB%E5%AF%BA"
+	},
+	{
+		"text": "猫の日",
+		"url": "https://ja.wikipedia.org/wiki/%E7%8C%AB%E3%81%AE%E6%97%A5"
+	},
+	{
+		"text": "猫バンバン",
+		"url": "https://ja.wikipedia.org/wiki/%E7%8C%AB%E3%83%90%E3%83%B3%E3%83%90%E3%83%B3"
+	},
+	{
+		"text": "猫又",
+		"url": "https://ja.wikipedia.org/wiki/%E7%8C%AB%E5%8F%88"
+	},
+	{
+		"text": "猫耳",
+		"url": "https://ja.wikipedia.org/wiki/%E7%8C%AB%E8%80%B3"
+	},
+	{
+		"text": "猫食文化",
+		"url": "https://ja.wikipedia.org/wiki/%E7%8C%AB%E9%A3%9F%E6%96%87%E5%8C%96"
+	},
+	{
+		"text": "ねこ検定",
+		"url": "https://ja.wikipedia.org/wiki/%E3%81%AD%E3%81%93%E6%A4%9C%E5%AE%9A"
+	},
+	{
+		"text": "ねこ鍋",
+		"url": "https://ja.wikipedia.org/wiki/%E3%81%AD%E3%81%93%E9%8D%8B"
+	},
+	{
+		"text": "ネコノミクス",
+		"url": "https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%B3%E3%83%8E%E3%83%9F%E3%82%AF%E3%82%B9"
+	},
+	{
+		"text": "ネコの遊びと玩具",
+		"url": "https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%B3%E3%81%AE%E9%81%8A%E3%81%B3%E3%81%A8%E7%8E%A9%E5%85%B7"
+	},
+	{
+		"text": "ネコを主題とする作品一覧",
+		"url": "https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%B3%E3%82%92%E4%B8%BB%E9%A1%8C%E3%81%A8%E3%81%99%E3%82%8B%E4%BD%9C%E5%93%81%E4%B8%80%E8%A6%A7"
+	},
+	{
+		"text": "大猫",
+		"url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E7%8C%AB"
+	},
+	{
+		"text": "こまねこまつり",
+		"url": "https://ja.wikipedia.org/wiki/%E3%81%93%E3%81%BE%E3%81%AD%E3%81%93%E3%81%BE%E3%81%A4%E3%82%8A"
+	},
+	{
+		"text": "なめ猫",
+		"url": "https://ja.wikipedia.org/wiki/%E3%81%AA%E3%82%81%E7%8C%AB"
+	},
+	{
+		"text": "化け猫",
+		"url": "https://ja.wikipedia.org/wiki/%E5%8C%96%E3%81%91%E7%8C%AB"
+	},
+	{
+		"text": "化猫遊女",
+		"url": "https://ja.wikipedia.org/wiki/%E5%8C%96%E7%8C%AB%E9%81%8A%E5%A5%B3"
+	},
+	{
+		"text": "招き猫",
+		"url": "https://ja.wikipedia.org/wiki/%E6%8B%9B%E3%81%8D%E7%8C%AB"
+	},
+	{
+		"text": "イスラームとネコ",
+		"url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%B9%E3%83%A9%E3%83%BC%E3%83%A0%E3%81%A8%E3%83%8D%E3%82%B3"
+	},
+	{
+		"text": "火車",
+		"url": "https://ja.wikipedia.org/wiki/%E7%81%AB%E8%BB%8A_(%E5%A6%96%E6%80%AA)"
+	},
+	{
+		"text": "カッテンストゥッツ",
+		"url": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%83%E3%83%86%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A5%E3%83%83%E3%83%84"
+	},
+	{
+		"text": "キャスパリーグ",
+		"url": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%91%E3%83%AA%E3%83%BC%E3%82%B0"
+	},
+	{
+		"text": "ケット・シー",
+		"url": "https://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%83%E3%83%88%E3%83%BB%E3%82%B7%E3%83%BC"
+	},
+	{
+		"text": "バステト",
+		"url": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%82%B9%E3%83%86%E3%83%88"
+	},
+	{
+		"text": "フレイヤ",
+		"url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%AC%E3%82%A4%E3%83%A4"
+	},
+	{
+		"text": "Lolcat",
+		"url": "https://ja.wikipedia.org/wiki/Lolcat"
+	},
+	{
+		"text": "香箱座り",
+		"url": "https://ja.wikipedia.org/wiki/%E9%A6%99%E7%AE%B1%E5%BA%A7%E3%82%8A"
+	},
+	{
+		"text": "猫カフェ",
+		"url": "https://ja.wikipedia.org/wiki/%E7%8C%AB%E3%82%AB%E3%83%95%E3%82%A7"
+	},
+	{
+		"text": "猫じゃらし",
+		"url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%8E%E3%82%B3%E3%83%AD%E3%82%B0%E3%82%B5"
+	},
+	{
+		"text": "猫ちぐら",
+		"url": "https://ja.wikipedia.org/wiki/%E7%8C%AB%E3%81%A1%E3%81%90%E3%82%89"
+	},
+	{
+		"text": "猫缶",
+		"url": "https://ja.wikipedia.org/wiki/%E7%8C%AB%E7%BC%B6"
+	},
+	{
+		"text": "猫砂",
+		"url": "https://ja.wikipedia.org/wiki/%E7%8C%AB%E7%A0%82"
+	},
+	{
+		"text": "猫肉屋",
+		"url": "https://ja.wikipedia.org/wiki/%E7%8C%AB%E8%82%89%E5%B1%8B"
+	},
+	{
+		"text": "ウイスキーキャット",
+		"url": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC%E3%82%AD%E3%83%A3%E3%83%83%E3%83%88"
+	},
+	{
+		"text": "キャットフード",
+		"url": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A3%E3%83%83%E3%83%88%E3%83%95%E3%83%BC%E3%83%89"
+	},
+	{
+		"text": "ねこまんま",
+		"url": "https://ja.wikipedia.org/wiki/%E3%81%AD%E3%81%93%E3%81%BE%E3%82%93%E3%81%BE"
+	},
+	{
+		"text": "三味線",
+		"url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E5%91%B3%E7%B7%9A"
+	},
+	{
+		"text": "英語版",
+		"url": "https://en.wikipedia.org/wiki/American_Cat_Fanciers_Association"
+	},
+	{
+		"text": "英語版",
+		"url": "https://en.wikipedia.org/wiki/Cat_Aficionado_Association"
+	},
+	{
+		"text": "英語版",
+		"url": "https://en.wikipedia.org/wiki/Cat_Fanciers%27_Association"
+	},
+	{
+		"text": "英語版",
+		"url": "https://en.wikipedia.org/wiki/F%C3%A9d%C3%A9ration_Internationale_F%C3%A9line"
+	},
+	{
+		"text": "英語版",
+		"url": "https://en.wikipedia.org/wiki/Governing_Council_of_the_Cat_Fancy"
+	},
+	{
+		"text": "英語版",
+		"url": "https://en.wikipedia.org/wiki/The_International_Cat_Association"
+	},
+	{
+		"text": "英語版",
+		"url": "https://en.wikipedia.org/wiki/Canadian_Cat_Association"
+	},
+	{
+		"text": "ねこの博物館",
+		"url": "https://ja.wikipedia.org/wiki/%E3%81%AD%E3%81%93%E3%81%AE%E5%8D%9A%E7%89%A9%E9%A4%A8"
+	},
+	{
+		"text": "猫は液体",
+		"url": "https://ja.wikipedia.org/wiki/%E7%8C%AB%E3%81%AF%E6%B6%B2%E4%BD%93"
+	},
+	{
+		"text": "ネコひねり問題",
+		"url": "https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%B3%E3%81%B2%E3%81%AD%E3%82%8A%E5%95%8F%E9%A1%8C"
+	},
+	{
+		"text": "アコースティック・キティー",
+		"url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%B3%E3%83%BC%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%83%BB%E3%82%AD%E3%83%86%E3%82%A3%E3%83%BC"
+	},
+	{
+		"text": "猫オルガン",
+		"url": "https://ja.wikipedia.org/wiki/%E7%8C%AB%E3%82%AA%E3%83%AB%E3%82%AC%E3%83%B3"
+	},
+	{
+		"text": "エルミタージュの猫",
+		"url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AB%E3%83%9F%E3%82%BF%E3%83%BC%E3%82%B8%E3%83%A5%E3%81%AE%E7%8C%AB"
+	},
+	{
+		"text": "カナダ国会議事堂のネコ",
+		"url": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%8A%E3%83%80%E5%9B%BD%E4%BC%9A%E8%AD%B0%E4%BA%8B%E5%A0%82%E3%81%AE%E3%83%8D%E3%82%B3"
+	},
+	{
+		"text": "首相官邸ネズミ捕獲長",
+		"url": "https://ja.wikipedia.org/wiki/%E9%A6%96%E7%9B%B8%E5%AE%98%E9%82%B8%E3%83%8D%E3%82%BA%E3%83%9F%E6%8D%95%E7%8D%B2%E9%95%B7"
+	},
+	{
+		"text": "シュレーディンガーの猫",
+		"url": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A5%E3%83%AC%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%AC%E3%83%BC%E3%81%AE%E7%8C%AB"
+	},
+	{
+		"text": "図書館猫",
+		"url": "https://ja.wikipedia.org/wiki/%E5%9B%B3%E6%9B%B8%E9%A4%A8%E7%8C%AB"
+	},
+	{
+		"text": "英語版",
+		"url": "https://en.wikipedia.org/wiki/Farm_cat"
+	},
+	{
+		"text": "バター猫のパラドックス",
+		"url": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%82%BF%E3%83%BC%E7%8C%AB%E3%81%AE%E3%83%91%E3%83%A9%E3%83%89%E3%83%83%E3%82%AF%E3%82%B9"
+	},
+	{
+		"text": "船乗り猫",
+		"url": "https://ja.wikipedia.org/wiki/%E8%88%B9%E4%B9%97%E3%82%8A%E7%8C%AB"
+	},
+	{
+		"text": "動物駅長",
+		"url": "https://ja.wikipedia.org/wiki/%E5%8B%95%E7%89%A9%E9%A7%85%E9%95%B7"
+	},
+	{
+		"text": "猫背",
+		"url": "https://ja.wikipedia.org/wiki/%E7%8C%AB%E8%83%8C"
+	},
+	{
+		"text": "猫騙し",
+		"url": "https://ja.wikipedia.org/wiki/%E7%8C%AB%E9%A8%99%E3%81%97"
+	},
+	{
+		"text": "キャットウォーク",
+		"url": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A3%E3%83%83%E3%83%88%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%AF"
+	},
+	{
+		"text": "キャットファイト",
+		"url": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A3%E3%83%83%E3%83%88%E3%83%95%E3%82%A1%E3%82%A4%E3%83%88"
+	},
+	{
+		"text": "架空のネコ",
+		"url": "https://ja.wikipedia.org/wiki/Category:%E6%9E%B6%E7%A9%BA%E3%81%AE%E3%83%8D%E3%82%B3"
+	},
+	{
+		"text": "猫の個体",
+		"url": "https://ja.wikipedia.org/wiki/Category:%E7%8C%AB%E3%81%AE%E5%80%8B%E4%BD%93"
+	},
+	{
+		"text": "ネコをモチーフにしたマスコット",
+		"url": "https://ja.wikipedia.org/wiki/Category:%E3%83%8D%E3%82%B3%E3%82%92%E3%83%A2%E3%83%81%E3%83%BC%E3%83%95%E3%81%AB%E3%81%97%E3%81%9F%E3%83%9E%E3%82%B9%E3%82%B3%E3%83%83%E3%83%88"
+	},
+	{
+		"text": "カテゴリ",
+		"url": "https://ja.wikipedia.org/wiki/%E7%89%B9%E5%88%A5:%E3%82%AB%E3%83%86%E3%82%B4%E3%83%AA"
+	},
+	{
+		"text": "ネコ",
+		"url": "https://ja.wikipedia.org/wiki/Category:%E3%83%8D%E3%82%B3"
+	},
+	{
+		"text": "猫の品種",
+		"url": "https://ja.wikipedia.org/wiki/Category:%E7%8C%AB%E3%81%AE%E5%93%81%E7%A8%AE"
+	},
+	{
+		"text": "ISBNマジックリンクを使用しているページ",
+		"url": "https://ja.wikipedia.org/wiki/Category:ISBN%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF%E3%83%AA%E3%83%B3%E3%82%AF%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E3%83%9A%E3%83%BC%E3%82%B8"
+	},
+	{
+		"text": "出典を必要とする節のある記事/2017年9月-10月",
+		"url": "https://ja.wikipedia.org/wiki/Category:%E5%87%BA%E5%85%B8%E3%82%92%E5%BF%85%E8%A6%81%E3%81%A8%E3%81%99%E3%82%8B%E7%AF%80%E3%81%AE%E3%81%82%E3%82%8B%E8%A8%98%E4%BA%8B/2017%E5%B9%B49%E6%9C%88-10%E6%9C%88"
+	},
+	{
+		"text": "個人設定",
+		"url": "https://ja.wikipedia.org/wiki/%E7%89%B9%E5%88%A5:%E5%80%8B%E4%BA%BA%E8%A8%AD%E5%AE%9A#mw-prefsection-rendering"
+	},
+	{
+		"text": "UTC",
+		"url": "https://ja.wikipedia.org/wiki/%E5%8D%94%E5%AE%9A%E4%B8%96%E7%95%8C%E6%99%82"
+	},
+	{
+		"text": "クリエイティブ・コモンズ 表示-継承ライセンス",
+		"url": "https://ja.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
+	},
+	{
+		"text": "利用規約",
+		"url": "https://foundation.wikimedia.org/wiki/Terms_of_Use/ja"
+	},
+	{
+		"text": "プライバシー・ポリシー",
+		"url": "https://meta.wikimedia.org/wiki/Privacy_policy/ja"
+	},
+	{
+		"text": "ウィキペディアについて",
+		"url": "https://ja.wikipedia.org/wiki/Wikipedia:%E3%82%A6%E3%82%A3%E3%82%AD%E3%83%9A%E3%83%87%E3%82%A3%E3%82%A2%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6"
+	},
+	{
+		"text": "免責事項",
+		"url": "https://ja.wikipedia.org/wiki/Wikipedia:%E5%85%8D%E8%B2%AC%E4%BA%8B%E9%A0%85"
+	},
+	{
+		"text": "Cookieに関する声明",
+		"url": "https://foundation.wikimedia.org/wiki/Cookie_statement"
+	}
+]

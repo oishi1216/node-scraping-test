@@ -1,0 +1,19 @@
+[
+	"https://ja.wikipedia.org/static/images/icons/wikipedia.png",
+	"https://ja.wikipedia.org/static/images/mobile/copyright/wikipedia-wordmark-ja.svg",
+	"https://ja.wikipedia.org/static/images/mobile/copyright/wikipedia-tagline-ja.svg",
+	"https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Madaraneko_by_Takeuchi_Seiho.jpg/250px-Madaraneko_by_Takeuchi_Seiho.jpg",
+	"https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Brown_and_white_tabby_cat_with_green_eyes-Hisashi-01.jpg/250px-Brown_and_white_tabby_cat_with_green_eyes-Hisashi-01.jpg",
+	"https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Question_book-4.svg/50px-Question_book-4.svg.png",
+	"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/100_views_edo_101.jpg/150px-100_views_edo_101.jpg",
+	"https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Orange_and_white_tabby_cat-Portrait-Hisashi-02.jpg/220px-Orange_and_white_tabby_cat-Portrait-Hisashi-02.jpg",
+	"https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Mackerel_tabby_cat_in_front_of_stairs-Hisashi-01.jpg/220px-Mackerel_tabby_cat_in_front_of_stairs-Hisashi-01.jpg",
+	"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Black_and_white_cat_in_a_park-Hisashi-01.jpg/220px-Black_and_white_cat_in_a_park-Hisashi-01.jpg",
+	"https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/JapaneseBobtailBlueEyedMi-ke.JPG/220px-JapaneseBobtailBlueEyedMi-ke.JPG",
+	"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/P_cat.svg/100px-P_cat.svg.png",
+	"https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png",
+	"https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png",
+	"https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png",
+	"https://ja.wikipedia.org/static/images/footer/wikimedia-button.png",
+	"https://ja.wikipedia.org/static/images/footer/poweredby_mediawiki_88x31.png"
+]
